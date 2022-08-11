@@ -1,5 +1,9 @@
 /* -----------------------------------------------
-/* How to use? : Check the GitHub README
+/* How to use? : 
+
+
+On cmd or powershell run,
+python -m http.server 3000
 /* ----------------------------------------------- */
 
 /* To load a config file (particles.json) you need to host this demo (MAMP/WAMP/local)... */
